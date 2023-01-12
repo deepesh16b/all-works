@@ -1,6 +1,6 @@
 # All Projects list:
 
-new todo-list Website: https://todo-list-6ji8.onrender.com/
+Todo-list Web App: https://todolistwebapp.onrender.com/
 
 Portfolio Website: https://deepesh16b.github.io/portfolio/
 
@@ -12,7 +12,7 @@ Tindog Website : https://deepesh16b.github.io/tindog/
 
 Text-to-speech Website: https://deepesh16b.github.io/text-to-speech/
 
-old todo-list Website: https://deepesh16b.github.io/todo-list
+Static todo-list Website: https://deepesh16b.github.io/todo-list
 
 Calculator Website: https://deepesh16b.github.io/calculator/
 
