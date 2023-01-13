@@ -4,7 +4,7 @@ Todo-list Web App: https://todolistwebapp.onrender.com/
 
 Portfolio Website: https://deepesh16b.github.io/portfolio/
 
-Blog Website: https://blog-website-iokq.onrender.com/
+Blog Website: https://blogwebapp-tslk.onrender.com/
 
 Newsletter Website: https://newsletter-nodejs.onrender.com/
 
